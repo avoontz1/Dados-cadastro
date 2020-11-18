@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.exe
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.deps.json
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.dll
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\bin\Debug\netcoreapp3.1\Dados-cadastro.pdb
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.dll
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.pdb
+C:\Users\victo_000\Desktop\HTML\Dados-cadastro\obj\Debug\netcoreapp3.1\Dados-cadastro.genruntimeconfig.cache
